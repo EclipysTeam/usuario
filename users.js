@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "name": "Leanne Graham",
+      "name": "cuzin altas",
       "username": "Bret",
       "email": "Sincere@april.biz",
       "address": {
